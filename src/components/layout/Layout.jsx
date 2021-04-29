@@ -1,5 +1,5 @@
 import Head from 'next/head';
-import Link from 'next/Link';
+import Link from 'next/link';
 import styles from "./Layout.module.css";
 import Brightness6Icon from '@material-ui/icons/Brightness6';
 import Brightness4Icon from '@material-ui/icons/Brightness4';
